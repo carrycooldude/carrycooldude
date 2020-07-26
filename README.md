@@ -1,5 +1,3 @@
-<img src="https://github.com/carrycooldude/carrycooldude/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
-
 ### Hi there 👋
 ## I am Developer,Speaker and Innovator.
 
@@ -23,11 +21,6 @@ Twitter :
 <a href="https://leetcode.com/kartikey_554/">
   <img align="left" alt="Kartikey's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=carrycooldude.carrycooldude)
-
-
-
-
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a HipHop Dancer...
 
