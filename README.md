@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 </a>
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a HipHop Dancer...
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carrycooldude)](https://github.com/anuraghazra/github-readme-stats)
 
