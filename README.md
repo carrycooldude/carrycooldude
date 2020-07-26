@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 </a>
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a HipHop Dancer...
-![Kartikey's github stats](https://github-readme-stats.vercel.app/api?username=carrycooldude&show_icons=true)
+![Kartikey's github stats](https://github-readme-stats.vercel.app/api?username=carrycooldude)
 
