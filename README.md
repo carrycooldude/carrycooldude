@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Product Development
 - 💬 Ask me about Machine Learning , Computer Vision , Deep Learning 
 - 📫 How to reach me: ...
-LinkedIn : 
-Twitter : 
 <a href="https://twitter.com/kari_rawat">
   <img align="left" alt="Kartikey Rawat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
