@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/kartikey_554/">
   <img align="left" alt="Kartikey's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+</br>
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a HipHop Dancer...
-![Kartikey's github stats](https://github-readme-stats.vercel.app/api?username=carrycooldude)
+![](https://github-readme-stats.vercel.app/api?username=carrycooldude)
 
