@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a HipHop Dancer...
 </br>
 ![Stats](https://github-readme-stats.vercel.app/api?username=carrycooldude "Stats")
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=6zWYDuQbh0k)
 
