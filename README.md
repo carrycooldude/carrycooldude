@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </br>
 - ⚡ Fun fact: I am a HipHop Dancer...
 </br>
-![Stats](https://github-readme-stats.vercel.app/api?username=carrycooldude)
+![Stats](https://github-readme-stats.vercel.app/api?username=carrycooldude "Stats")
 
