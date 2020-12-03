@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=carrycooldude)
 
-[![kartikey rawat's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/carrycooldude)
+<a href="https://dev.to/carrycooldude">
+  <i class="fab fa-dev" title="carrycooldude's DEV Profile"></i>
+</a>
