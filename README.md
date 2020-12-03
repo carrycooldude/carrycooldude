@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a HipHop Dancer...
 </br>
 
-[![kartikey rawat's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/carrycooldude)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=carrycooldude)
+
+[![kartikey rawat's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/carrycooldude)
