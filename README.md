@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/kartikey_554/">
   <img align="left" alt="Kartikey's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+<a href="https://dev.to/carrycooldude">
+  <i class="fab fa-dev" title="carrycooldude's DEV Profile"></i>
+</a>
 </br>
 - 😄 Pronouns: He/him
 </br>
@@ -28,6 +31,3 @@ Here are some ideas to get you started:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=carrycooldude)
 
-<a href="https://dev.to/carrycooldude">
-  <i class="fab fa-dev" title="carrycooldude's DEV Profile"></i>
-</a>
