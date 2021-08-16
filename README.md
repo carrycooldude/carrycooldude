@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 <a href="https://dev.to/carrycooldude">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="kartikey rawat's DEV Profile" height="30" width="30">
 </a>
-</br>
+
 - 😄 Pronouns: He/him
-</br>
 - ⚡ Fun fact: I am a HipHop Dancer...
-</br>
+
 
 
 
