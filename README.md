@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Developer,Speaker and Innovator.
+## Founder at OpInCo Community | Open Source Contributor
 
 
 Here are some ideas to get you started:
