@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=carrycooldude&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 
 ![](https://user-images.githubusercontent.com/41143496/111524041-fc65e800-8781-11eb-8a84-ae5e8517b1f7.mp4)
- <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrycooldude&&layout=compact&hide=shell&theme=jolly"/> 
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrycooldude&&layout=compact&hide=shell&theme=jolly"/> 
 
 
-![Thank You github](https://user-images.githubusercontent.com/41143496/111601768-b13aec00-87f8-11eb-8d8c-51db093db5da.gif)
+<img src="https://user-images.githubusercontent.com/41143496/111601768-b13aec00-87f8-11eb-8d8c-51db093db5da.gif" alt="Thankyou Github!" width="425">
 
