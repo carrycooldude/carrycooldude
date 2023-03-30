@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey folks 👋
 ## Founder at OpInCo Community | Open Source Contributor
 
 
