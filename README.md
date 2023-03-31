@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love HipHop ...
 
+![](https://komarev.com/ghpvc/?username=carrycooldude&color=blueviolet)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carrycooldude&theme=dark)](https://git.io/streak-stats) -->
 <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=carrycooldude&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
