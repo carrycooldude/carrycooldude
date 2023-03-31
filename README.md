@@ -1,5 +1,5 @@
 ### Hey folks 👋
-## Founder at OpInCo Community | Open Source Contributor
+##  Kartikey Rawat (@carrycooldude) | Founder at OpInCo Community | Open Source Contributor
 
 
 Here are some ideas to get you started:
