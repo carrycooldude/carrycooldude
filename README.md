@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
+<div align="center"><a href="https://git.io/streak-stats"><img alt="Carrycooldude's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=carrycooldude&theme=radical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</div>
 <br/>
 <br/>
 <div align="center">
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/carrycooldude/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/carrycooldude"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
@@ -43,7 +44,8 @@ Here are some ideas to get you started:
 </p>
 
 ## ❤ Views and Followers
-![](https://komarev.com/ghpvc/?username=carrycooldude&color=blueviolet)
+
+![](https://komarev.com/ghpvc/?username=carrycooldude&color=blueviolet&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 <a href="https://github.com/carrycooldude?tab=followers"><img src="https://img.shields.io/github/followers/carrycooldude?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
