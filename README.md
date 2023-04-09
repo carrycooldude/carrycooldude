@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning , Deep Learning , BlockChain 
 - 👯 I’m looking to collaborate on Tensorflow , RedHat
 - 🤔 I’m looking for help with Product Development
-- 💬 Ask me about Machine Learning , Computer Vision , Deep Learning 
+- 💬 Ask me about Machine Learning , Computer Vision , Deep Learning , Communities. 
 
 
 - 😄 Pronouns: He/him
