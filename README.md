@@ -2,13 +2,12 @@
 ##  Kartikey Rawat ([@carrycooldude](https://twitter.com/carrycooldude)) | Founder at [OpInCo Community](https://github.com/OpInCo-Community) | Open Source Contributor
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently building OpInCo Community
 - 🌱 I’m currently learning Machine Learning , Deep Learning , BlockChain 
 - 👯 I’m looking to collaborate on Tensorflow , RedHat
 - 🤔 I’m looking for help with Product Development
-- 💬 Ask me about Machine Learning , Computer Vision , Deep Learning , Communities. 
+- 💬 Ask me about Machine Learning , Computer Vision , Deep Learning and Communities.
 
 
 - 😄 Pronouns: He/him
