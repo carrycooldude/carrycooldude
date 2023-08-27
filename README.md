@@ -12,11 +12,7 @@
 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love HipHop ...
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/carrycooldude/contributions?format=svg" width="350" title="Includes public contributions"/>
-    </a>
-</p>
+
 
 ## 📊 My Github Stats
 
@@ -31,10 +27,15 @@
 <br/>
 <br/>
 <div align="center">
-<a href="https://github.com/carrycooldude/github-readme-activity-graph"><img alt="Carrycooldude's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=carrycooldude&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/carrycooldude/github-readme-activity-graph"><img alt="Carrycooldude's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=carrycooldude&theme=github-compact" /></a>
 </div>
 <br/>
 <br/>
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/carrycooldude/contributions?format=svg" width="350" title="Includes public contributions"/>
+    </a>
+</p>
 
 ## Connect with me:
 <p align="center">
