@@ -12,7 +12,11 @@
 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love HipHop ...
-
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/carrycooldude/contributions?format=svg" width="350" title="Includes public contributions"/>
+    </a>
+</p>
 
 ## 📊 My Github Stats
 
