@@ -35,6 +35,8 @@
 
 </p>
 
+[![An image of @carrycooldude's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carrycooldude)](https://holopin.io/@carrycooldude)
+
 ## ❤ Views and Followers
 
 ![](https://komarev.com/ghpvc/?username=carrycooldude&color=blueviolet&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
